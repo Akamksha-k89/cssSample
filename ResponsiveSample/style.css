@@ -194,11 +194,11 @@ img{
   }
 
   @media (max-width: 500px) {
-    .top-container {
+     .top-container {
       grid-template-areas:
         'showcase'
         'top-box-a'
         'top-box-b';
-    }
+    } 
   }
   
